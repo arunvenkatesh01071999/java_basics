@@ -5,5 +5,5 @@
  * @author arunk
  *
  */
-module first {
+module daly_works {
 }
